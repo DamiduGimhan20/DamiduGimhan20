@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Damidu Gimhan</h1>
-<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damidugimhan20&label=Profile%20views&color=0e75b6&style=flat" alt="damidugimhan20" /> </p>
 
+- 👦🏻 I'm 24 years old
+
 - 🌱 I’m currently learning **React,Flutter**
-
-- 📫 How to reach me **damidugimhan20@gmail.com**
-
+  
+- 👀 I’m interested in HTML,CSS,Javascript,C++,Hacking,Web developping and...
+  
+- 💞️ I’m looking to collaborate on building websites and web apps, developping linux tools, Linux server operations and...
+  
+- 📫 Email me via damidugimhan20@gmail.com to contact
+  
 - 📄 Know about my experiences [https://damidugimhan20.github.io/Portfolio/](https://damidugimhan20.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
