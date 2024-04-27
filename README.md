@@ -5,7 +5,7 @@
 
 - 👦🏻 I'm 24 years old
 
-- 🌱 I’m currently learning **React,Flutter**
+- 🌱 I’m currently learning **React , React-native , Flutter**
   
 - 👀 I’m interested in HTML,CSS,Javascript,C++,Hacking,Web developping and...
   
