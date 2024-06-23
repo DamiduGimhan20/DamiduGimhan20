@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Damidu Gimhan</h1>
 <h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
 
+[![](https://visitcount.itsvg.in/api?id=DamiduGimhan20&icon=2&color=1)](https://visitcount.itsvg.in)
+
+
 # 💫 About Me:
 👦🏻 I'm 24 years old<br><br>🌱 I’m currently learning React , React-native , Flutter<br><br>👀 I’m interested in HTML,CSS,Javascript,C++,Hacking, Web developing and...<br><br>💞️ I’m looking to collaborate on building websites and web apps, developing Linux tools, Linux server operations and...<br><br>📫 Email me via damidugimhan20@gmail.com to contact<br><br>📄 Know about my experiences https://damidugimhan20.github.io/Portfolio/
 
@@ -14,7 +17,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DamiduGimhan20&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)</br></br></br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DamiduGimhan20&icon=2&color=1)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/its_damidugimhan) 
