@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/people/Damidu-Gimhan-Jayawardana/pfbid02zvMTwzTNjp6gcaG52C3q3YAKggPDmTKJQbG7m7HDxreyQFR83Ym8ARGF43k5UiiSl/?mibextid=ZbWKwL) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its_damidugimhan?igsh=MXJza3F1NW1waGRmbg==) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itz_damidugimhan?igsh=MXJza3F1NW1waGRmbg==) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damidu-gimhan-jayawardhana-0080a8239/) 
 
 # 💻 Tech Stack:
