@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-👦🏻 I'm 24 years old<br><br>🌱 I’m currently learning React , React-native , Flutter<br><br>👀 I’m interested in HTML,CSS,Javascript,C++,Hacking, Web developing and...<br><br>💞️ I’m looking to collaborate on building websites and web apps, developing Linux tools, Linux server operations and...<br><br>📫 Email me via damidugimhan20@gmail.com to contact<br><br>📄 Know about my experiences [https://daminduportfolio.vercel.app/]
+👦🏻 I'm 26 years old<br><br>🌱 I’m currently learning React , React-native , Flutter<br><br>👀 I’m interested in HTML,CSS,Javascript,C++,Hacking, Web developing and...<br><br>💞️ I’m looking to collaborate on building websites and web apps, developing Linux tools, Linux server operations and...<br><br>📫 Email me via damidugimhan20@gmail.com to contact<br><br>📄 Know about my experiences [https://daminduportfolio.vercel.app/]
 
 
 ## 🌐 Socials:
